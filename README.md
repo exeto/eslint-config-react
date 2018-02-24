@@ -16,7 +16,7 @@ $ npm install --save-dev \
 Add following in your `.eslintrc`:
 
 ```json
-"extends": "@exeto/eslint-config-react"
+"extends": "@exeto/react"
 ```
 
 ## License
