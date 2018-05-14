@@ -1,8 +1,12 @@
-1.0.0 / 2018-02-24
-===================
-- Disable prefer-stateless-function
-- Update peerDependencies
+# 2.0.0 / 2018-05-14
 
-0.1.0 / 2017-07-09
-===================
-- Initial commit
+* Disable allowArrowFunctions
+
+# 1.0.0 / 2018-02-24
+
+* Disable prefer-stateless-function
+* Update peerDependencies
+
+# 0.1.0 / 2017-07-09
+
+* Initial commit
