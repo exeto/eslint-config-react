@@ -14,7 +14,7 @@ module.exports = {
       'error',
       {
         ignoreRefs: true,
-        allowArrowFunctions: true,
+        allowArrowFunctions: false,
         allowBind: false,
       },
     ],
