@@ -7,8 +7,8 @@
 ```bash
 $ npm install --save-dev \
   @exeto/eslint-config-react \
-  eslint@^4.18.1 \
-  eslint-plugin-react@^7.7.0
+  eslint@^5.1.0 \
+  eslint-plugin-react@^7.10.0
 ```
 
 ## Usage
