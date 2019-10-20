@@ -1,3 +1,7 @@
+# 3.0.1 / 2019-10-20
+
+- Declare the package is deprecated
+
 # 3.0.0 / 2018-07-18
 
 - Update peer deps
