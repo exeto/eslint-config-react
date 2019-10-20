@@ -2,6 +2,8 @@
 
 > My ESLint config for React
 
+**THIS PACKAGE IS NO LONGER MAINTAINED**
+
 ## Install
 
 ```bash
